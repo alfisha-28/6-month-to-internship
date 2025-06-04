@@ -1,0 +1,24 @@
+Python Reference
+You will also find complete function and method references:
+
+Reference Overview
+
+Built-in Functions
+
+String Methods
+
+List/Array Methods
+
+Dictionary Methods
+
+Tuple Methods
+
+Set Methods
+
+File Methods
+
+Python Keywords
+
+Python Exceptions
+
+Python Glossary
